@@ -7,25 +7,25 @@
       "id": 1,
       "title": "hello",
       "description": "world",
-      "image": "images/shop1.jpg"
+      "image": "https://github.com/luckycreationsindia/testingrepo/raw/master/images/shop1.jpg"
     },
     {
       "id": 2,
       "title": "hello 2",
       "description": "world 2",
-      "image": "images/shop2.png"
+      "image": "https://github.com/luckycreationsindia/testingrepo/raw/master/images/shop2.png"
     },
     {
       "id": 3,
       "title": "hello 3",
       "description": "world 3",
-      "image": "images/shop3.png"
+      "image": "https://github.com/luckycreationsindia/testingrepo/raw/master/images/shop3.png"
     },
     {
       "id": 4,
       "title": "hello 4",
       "description": "world 4",
-      "image": "images/shop4.jpg"
+      "image": "https://github.com/luckycreationsindia/testingrepo/raw/master/images/shop4.jpg"
     }
   ]
 }
