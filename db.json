@@ -1,0 +1,30 @@
+{
+  "status": "Success",
+  "message": "Success",
+  "images": [
+    {
+      "id": 1,
+      "title": "hello",
+      "description": "world",
+      "image": "images/shop1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "hello 2",
+      "description": "world 2",
+      "image": "images/shop2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "hello 3",
+      "description": "world 3",
+      "image": "images/shop3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "hello 4",
+      "description": "world 4",
+      "image": "images/shop4.jpg"
+    }
+  ]
+}
