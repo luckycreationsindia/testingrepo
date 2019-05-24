@@ -1,4 +1,5 @@
 {
+"promoBannerList": {
   "status": "Success",
   "message": "Success",
   "images": [
@@ -27,4 +28,5 @@
       "image": "images/shop4.jpg"
     }
   ]
+}
 }
