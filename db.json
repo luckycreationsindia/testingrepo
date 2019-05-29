@@ -1,32 +1,156 @@
 {
-"promoBannerList": {
-  "status": "Success",
-  "message": "Success",
-  "images": [
-    {
-      "id": 1,
-      "title": "hello",
-      "description": "world",
-      "image": "https://github.com/luckycreationsindia/testingrepo/raw/master/images/shop1.jpg"
-    },
-    {
-      "id": 2,
-      "title": "hello 2",
-      "description": "world 2",
-      "image": "https://github.com/luckycreationsindia/testingrepo/raw/master/images/shop2.png"
-    },
-    {
-      "id": 3,
-      "title": "hello 3",
-      "description": "world 3",
-      "image": "https://github.com/luckycreationsindia/testingrepo/raw/master/images/shop3.png"
-    },
-    {
-      "id": 4,
-      "title": "hello 4",
-      "description": "world 4",
-      "image": "https://github.com/luckycreationsindia/testingrepo/raw/master/images/shop4.jpg"
-    }
-  ]
-}
+  "promoBannerList": {
+    "status": "Success",
+    "message": "Success",
+    "images": [
+      {
+        "id": 1,
+        "title": "hello",
+        "description": "world",
+        "image": "https://github.com/luckycreationsindia/testingrepo/raw/master/images/shop1.jpg"
+      },
+      {
+        "id": 2,
+        "title": "hello 2",
+        "description": "world 2",
+        "image": "https://github.com/luckycreationsindia/testingrepo/raw/master/images/shop2.png"
+      },
+      {
+        "id": 3,
+        "title": "hello 3",
+        "description": "world 3",
+        "image": "https://github.com/luckycreationsindia/testingrepo/raw/master/images/shop3.png"
+      },
+      {
+        "id": 4,
+        "title": "hello 4",
+        "description": "world 4",
+        "image": "https://github.com/luckycreationsindia/testingrepo/raw/master/images/shop4.jpg"
+      }
+    ]
+  },
+  "orders": {
+    "status": "Success",
+    "message": "Success",
+    "orders": [
+      {
+        "id": "1",
+        "orderNo": "OR/1/18-19",
+        "orderPre": "OR/",
+        "orderSeq": 1,
+        "orderPost": "/18-19",
+        "customerData": {
+          "name": "Lucky",
+          "company": "Lazybit",
+          "address": "Kormangala",
+          "city": "Bangalore",
+          "state": "Karnataka",
+          "country": "India",
+          "pincode": 560000
+        },
+        "sellerData": {
+          "name": "Lucky Seller",
+          "company": "LCI",
+          "address": "Akkipet",
+          "city": "Bangalore",
+          "state": "Karnataka",
+          "country": "India",
+          "pincode": 560053
+        },
+        "orderItems": [
+          {
+            "id": "1",
+            "name": "Prod 1",
+            "image": "https://github.com/luckycreationsindia/testingrepo/raw/master/images/shop1.jpg",
+            "tax": 5,
+            "price": 100,
+            "qty": 10
+          },
+          {
+            "id": "2",
+            "name": "Prod 2",
+            "image": "https://github.com/luckycreationsindia/testingrepo/raw/master/images/shop1.jpg",
+            "tax": 5,
+            "price": 200,
+            "qty": 11
+          },
+          {
+            "id": "3",
+            "name": "Prod 3",
+            "image": "https://github.com/luckycreationsindia/testingrepo/raw/master/images/shop1.jpg",
+            "tax": 5,
+            "price": 300,
+            "qty": 12
+          },
+          {
+            "id": "4",
+            "name": "Prod 4",
+            "image": "https://github.com/luckycreationsindia/testingrepo/raw/master/images/shop1.jpg",
+            "tax": 5,
+            "price": 400,
+            "qty": 13
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "orderNo": "OR/2/18-19",
+        "orderPre": "OR/",
+        "orderSeq": 2,
+        "orderPost": "/18-19",
+        "customerData": {
+          "name": "Lokesh",
+          "company": "Lazybit",
+          "address": "Kormangala",
+          "city": "Bangalore",
+          "state": "Karnataka",
+          "country": "India",
+          "pincode": 560000
+        },
+        "sellerData": {
+          "name": "Lucky Seller",
+          "company": "LCI",
+          "address": "Akkipet",
+          "city": "Bangalore",
+          "state": "Karnataka",
+          "country": "India",
+          "pincode": 560053
+        },
+        "orderItems": [
+          {
+            "id": "5",
+            "name": "Prod 1",
+            "image": "https://github.com/luckycreationsindia/testingrepo/raw/master/images/shop1.jpg",
+            "tax": 5,
+            "price": 1000,
+            "qty": 104
+          },
+          {
+            "id": "6",
+            "name": "Prod 2",
+            "image": "https://github.com/luckycreationsindia/testingrepo/raw/master/images/shop1.jpg",
+            "tax": 5,
+            "price": 2000,
+            "qty": 113
+          },
+          {
+            "id": "7",
+            "name": "Prod 3",
+            "image": "https://github.com/luckycreationsindia/testingrepo/raw/master/images/shop1.jpg",
+            "tax": 5,
+            "price": 3000,
+            "qty": 122
+          },
+          {
+            "id": "8",
+            "name": "Prod 4",
+            "image": "https://github.com/luckycreationsindia/testingrepo/raw/master/images/shop1.jpg",
+            "tax": 5,
+            "price": 4000,
+            "qty": 131
+          }
+        ]
+      }
+    ]
+  }
 }
