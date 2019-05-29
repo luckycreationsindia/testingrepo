@@ -62,33 +62,33 @@
             "id": "1",
             "name": "Prod 1",
             "image": "https://github.com/luckycreationsindia/testingrepo/raw/master/images/shop1.jpg",
-            "tax": 5,
-            "price": 100,
-            "qty": 10
+            "tax": 5.00,
+            "price": 100.00,
+            "qty": 10.00
           },
           {
             "id": "2",
             "name": "Prod 2",
             "image": "https://github.com/luckycreationsindia/testingrepo/raw/master/images/shop1.jpg",
-            "tax": 5,
-            "price": 200,
-            "qty": 11
+            "tax": 5.00,
+            "price": 200.00,
+            "qty": 11.00
           },
           {
             "id": "3",
             "name": "Prod 3",
             "image": "https://github.com/luckycreationsindia/testingrepo/raw/master/images/shop1.jpg",
-            "tax": 5,
-            "price": 300,
-            "qty": 12
+            "tax": 5.00,
+            "price": 300.00,
+            "qty": 12.00
           },
           {
             "id": "4",
             "name": "Prod 4",
             "image": "https://github.com/luckycreationsindia/testingrepo/raw/master/images/shop1.jpg",
-            "tax": 5,
-            "price": 400,
-            "qty": 13
+            "tax": 5.00,
+            "price": 400.00,
+            "qty": 13.00
           }
         ]
       },
@@ -121,33 +121,33 @@
             "id": "5",
             "name": "Prod 1",
             "image": "https://github.com/luckycreationsindia/testingrepo/raw/master/images/shop1.jpg",
-            "tax": 5,
-            "price": 1000,
-            "qty": 104
+            "tax": 5.00,
+            "price": 1000.00,
+            "qty": 104.00
           },
           {
             "id": "6",
             "name": "Prod 2",
             "image": "https://github.com/luckycreationsindia/testingrepo/raw/master/images/shop1.jpg",
-            "tax": 5,
-            "price": 2000,
-            "qty": 113
+            "tax": 5.00,
+            "price": 2000.00,
+            "qty": 113.00
           },
           {
             "id": "7",
             "name": "Prod 3",
             "image": "https://github.com/luckycreationsindia/testingrepo/raw/master/images/shop1.jpg",
-            "tax": 5,
-            "price": 3000,
-            "qty": 122
+            "tax": 5.00,
+            "price": 3000.00,
+            "qty": 122.00
           },
           {
             "id": "8",
             "name": "Prod 4",
             "image": "https://github.com/luckycreationsindia/testingrepo/raw/master/images/shop1.jpg",
-            "tax": 5,
-            "price": 4000,
-            "qty": 131
+            "tax": 5.00,
+            "price": 4000.00,
+            "qty": 131.00
           }
         ]
       }
